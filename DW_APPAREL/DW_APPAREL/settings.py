@@ -26,7 +26,7 @@ SECRET_KEY = 'mkqg921@)boen(&v&8bo+1k1%5#2+-dxa10+r5dp()pv+uafiv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kukqhpevccprqh2t.onion']
 
 
 # Application definition
